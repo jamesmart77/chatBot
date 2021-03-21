@@ -1,0 +1,28 @@
+body {
+  margin: 0 !important;
+}
+
+.App {
+  background-color: darkgrey;
+  font-family: sans-serif;
+  height: 100vh;
+  padding: 5rem 0;
+  text-align: center;
+}
+
+.toggle-btn {
+  background-color: #376B7E;
+  border: none;
+  border-radius: 3rem;
+  color: #fff;
+  cursor: pointer;
+  padding: 0.5rem 1rem;
+}
+
+.react-chatbot-kit-chat-container {
+  margin: auto;
+}
+
+.react-chatbot-kit-chat-bot-message > span {
+  color: #333 !important;
+}
